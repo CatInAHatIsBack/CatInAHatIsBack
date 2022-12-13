@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CatInAHatIsBack
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java & python
+- 👀 I’m interested in Climbing and Traveling
+- 🌱 I’m currently learning React, 3js and tailwindcss
 - 💞️ I’m looking to collaborate on anyhthing interesting
 - 📫 How to reach me CatInAHatIsBack@gmail.com
